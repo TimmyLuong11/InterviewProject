@@ -1,0 +1,16 @@
+C:\Users\Kimlu\Desktop\interviewproject\InterviewProject\bin\Debug\InterviewProject.exe.config
+C:\Users\Kimlu\Desktop\interviewproject\InterviewProject\bin\Debug\InterviewProject.exe
+C:\Users\Kimlu\Desktop\interviewproject\InterviewProject\bin\Debug\InterviewProject.pdb
+C:\Users\Kimlu\Desktop\interviewproject\InterviewProject\bin\Debug\InterviewProject.xml
+C:\Users\Kimlu\Desktop\interviewproject\InterviewProject\obj\Debug\InterviewProject.frmMain.resources
+C:\Users\Kimlu\Desktop\interviewproject\InterviewProject\obj\Debug\InterviewProject.Resources.resources
+C:\Users\Kimlu\Desktop\interviewproject\InterviewProject\obj\Debug\InterviewProject.vbproj.GenerateResource.cache
+C:\Users\Kimlu\Desktop\interviewproject\InterviewProject\obj\Debug\InterviewProject.vbproj.CoreCompileInputs.cache
+C:\Users\Kimlu\Desktop\interviewproject\InterviewProject\obj\Debug\InterviewProject.exe
+C:\Users\Kimlu\Desktop\interviewproject\InterviewProject\obj\Debug\InterviewProject.xml
+C:\Users\Kimlu\Desktop\interviewproject\InterviewProject\obj\Debug\InterviewProject.pdb
+C:\Users\Kimlu\Desktop\interviewproject\InterviewProject\obj\Debug\InterviewProject.vbproj.AssemblyReference.cache
+C:\Users\Kimlu\Desktop\interviewproject\InterviewProject\obj\Debug\InterviewProject.frmDetails.resources
+C:\Users\Kimlu\Desktop\interviewproject\InterviewProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kimlu\Desktop\interviewproject\InterviewProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kimlu\Desktop\interviewproject\InterviewProject\obj\Debug\InterviewProject.vbproj.CopyComplete

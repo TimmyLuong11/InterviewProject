@@ -1,0 +1,110 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+InterviewProject
+</name>
+</assembly>
+<members>
+<member name="T:InterviewProject.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:InterviewProject.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:InterviewProject.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:InterviewProject.My.Resources.Resources.img">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:InterviewProject.CVenders.Item(System.Int32)">
+ <summary>
+ Item property that takes an integer as a key, 
+ </summary>
+ <param name="Key">Zero based</param>
+</member>
+<member name="T:InterviewProject.EStates">
+ <summary>
+ Enumeration to hold state value IDs
+ </summary>
+</member>
+<member name="M:InterviewProject.frmDetails.frmDetails_Load(System.Object,System.EventArgs)">
+ <summary>
+ Create the Detail from window
+ </summary>
+</member>
+<member name="M:InterviewProject.frmDetails.detail(System.String,System.String,System.String,System.String,System.String,System.String)">
+ <summary>
+ Method to load the information pass to the lables
+ </summary>
+ <param name="name">A string representing the company name</param>
+ <param name="address">A string representing the company address</param>
+ <param name="city">A string representing the company city</param>
+ <param name="state">A string representing the company state</param>
+ <param name="zip">A string representing the company zip code</param>
+ <param name="phone">A string representing the company phone number</param>
+</member>
+<member name="M:InterviewProject.frmDetails.btnClose_Click(System.Object,System.EventArgs)">
+ <summary>
+ Method to close the window when the button is pressed
+ </summary>
+</member>
+<member name="M:InterviewProject.frmMain.BindControls">
+ <summary>
+ Creates and assigns bindings to all form fields.
+ </summary>
+</member>
+<member name="M:InterviewProject.frmMain.UpdateDataBindings">
+ <summary>
+ Clear all bindings, then calls BindControls
+ </summary>
+</member>
+<member name="M:InterviewProject.frmMain.cmdNext_Click(System.Object,System.EventArgs)">
+ <summary>
+ Scroll forward through vendor collection and toggle buttons accordingly.
+ </summary>
+</member>
+<member name="M:InterviewProject.frmMain.cmdPrev_Click(System.Object,System.EventArgs)">
+ <summary>
+ Scroll back through vendor collection and toggle buttons accordingly.
+ </summary>
+</member>
+<member name="M:InterviewProject.frmMain.cmdSave_Click(System.Object,System.EventArgs)">
+ <summary>
+ Launch save file dialog.
+ </summary>
+</member>
+<member name="M:InterviewProject.frmMain.cmdLoad_Click(System.Object,System.EventArgs)">
+ <summary>
+ Launch open file dialog.
+ </summary>
+</member>
+<member name="M:InterviewProject.frmMain.txtZip_TextChanged(System.Object,System.EventArgs)">
+ <summary>
+ Method to check the zip code to make sure it is a valid entry
+ </summary>
+</member>
+<member name="M:InterviewProject.frmMain.txtPhone_TextChanged(System.Object,System.EventArgs)">
+ <summary>
+ Method to check the phone number to make sure it is a valid entry
+ </summary>
+</member>
+<member name="M:InterviewProject.frmMain.cmdDetails_Click(System.Object,System.EventArgs)">
+ <summary>
+ Method for the detail button
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>
